@@ -11,9 +11,11 @@ package hola;
  */
 public class Hola {
 
-    /**
-     * @param args the command line arguments
-     */
+    public int Metodo1()
+    {
+        System.out.print("hola mundo");
+        return 0;
+    }
     public static void main(String[] args) {
         // TODO code application logic here
         System.out.print("hola mundo");
