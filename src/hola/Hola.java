@@ -26,5 +26,12 @@ public class Hola {
         /////sdgtfjhkjjlklñ
 
     }
+    public int Metodo2()
+    {
+        System.out.print("hola mundo");
+       
+        System.out.println("ola k ase?");
+        return 0;
+    }
     
 }
