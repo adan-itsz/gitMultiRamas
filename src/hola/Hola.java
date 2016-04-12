@@ -7,6 +7,14 @@ package hola;
 
 public class Hola {
 
+
+
+    public int Metodo1()
+    {
+        System.out.print("hola mundo");
+        return 0;
+    }
+    
     public static void main(String[] args) {
         
         System.out.print("hola mundo");
